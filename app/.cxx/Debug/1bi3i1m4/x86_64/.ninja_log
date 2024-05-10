@@ -1,0 +1,6 @@
+# ninja log v5
+0	133	7356341929383348	CMakeFiles/finalproj.dir/finalproj.cpp.o	175827c98df1bce8
+202	666	7356850742614840	C:/Users/harbi/Documents/School/SP24/ECE420/FinalProject/finalproj_opencv4/app/build/intermediates/cxx/Debug/1bi3i1m4/obj/x86_64/libfinalproj.so	a1aae19a1118bd43
+1	201	7356850737933614	CMakeFiles/finalproj.dir/facemark.cpp.o	8cfbc4fc418bef89
+0	38	7363713055726862	CMakeFiles/finalproj.dir/facemark.cpp.o	8cfbc4fc418bef89
+39	286	7363713058135909	C:/Users/harbi/Documents/School/SP24/ECE420/FinalProject/finalproj_opencv4/app/build/intermediates/cxx/Debug/1bi3i1m4/obj/x86_64/libfinalproj.so	a1aae19a1118bd43

@@ -1,0 +1,1 @@
+C:\Users\harbi\Documents\School\SP24\ECE420\FinalProject\finalproj_opencv4\app\src\main\cpp\CMakeLists.txt

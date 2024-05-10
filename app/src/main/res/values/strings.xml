@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ECE420 Final Lab</string>
+    <string name="control_button">START</string>
+</resources>
